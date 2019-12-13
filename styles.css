@@ -1,0 +1,48 @@
+h1 {
+    background-color: #3477eb;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+    
+}
+
+img {
+    width: 200px;
+
+
+}
+
+.move {
+    padding: 10px;
+}
+
+.picture {
+    display: flex;
+    justify-content: flex-start;
+    width: 100vw;
+
+}
+
+.banner {
+    width: 800px;
+}
+
+.next {
+    display: flex;
+    justify-content: flex-start;
+}
+
+buton {
+    display: flex;
+    text-align: center;
+}
+
+body{
+    
+}
+
+another {
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+}
